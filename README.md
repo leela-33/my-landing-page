@@ -4,7 +4,8 @@ A fully responsive and pixel-perfect landing page built from the Clove Dental Fi
 ---
 
 ## 🔗 Live Demo
-- **Live URL:** https://your-username.github.io/my-landing-page/  
+- **Live URL:** https://leela-33.github.io/my-landing-page/
+  
 - **GitHub Repository:** https://github.com/leela-33/my-landing-page
 
 > (After deployment I will help you replace the link.)
