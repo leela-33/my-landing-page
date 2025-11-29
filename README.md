@@ -38,5 +38,18 @@ A fully responsive and pixel-perfect landing page built from the Clove Dental Fi
 - Reusable components (cards, buttons, grids)
 
 ---
+## 📸 Screenshots
+
+### Desktop View 1
+![Desktop Screenshot 1](screenshots/DeskTop-1.png)
+
+### Desktop View 2
+![Desktop Screenshot 2](screenshots/DeskTop-2.png)
+
+### Desktop View 3
+![Desktop Screenshot 3](screenshots/DeskTop-3.png)
+
+### Mobile View
+![Mobile Screenshot](screenshots/Small_devices_.jpg)
 
 
